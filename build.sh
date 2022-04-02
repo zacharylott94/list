@@ -1,0 +1,1 @@
+amalg.lua -o list.portable.lua  -s list.lua map fold filter && luarocks --local build
